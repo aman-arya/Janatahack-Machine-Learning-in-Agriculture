@@ -3,7 +3,7 @@ Analytics Vidhya Janata Hack conducted on 25th &amp; 26th July 2020
 
 Public Leaderboard Rank: 8
 
-Private Leaderboard Rank: 12
+Private Leaderboard Rank: 6
 
 # About
 
